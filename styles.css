@@ -1,0 +1,11 @@
+div{
+    display: flex;
+}
+
+p{
+    margin: 0 0 0 1em;
+}
+
+.resultado::after{
+    content: " $"
+}
